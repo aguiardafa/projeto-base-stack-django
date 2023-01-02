@@ -107,7 +107,7 @@
         },
         "setuptools": {
             "hashes": [],
-            "version": "==65.6.0"
+            "version": "==65.6.3"
         },
         "sqlparse": {
             "hashes": [],
