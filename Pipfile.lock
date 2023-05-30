@@ -18,7 +18,7 @@
     "default": {
         "asgiref": {
             "hashes": [],
-            "version": "==3.6.0"
+            "version": "==3.7.2"
         },
         "backports.zoneinfo": {
             "hashes": [
@@ -103,7 +103,7 @@
         },
         "setuptools": {
             "hashes": [],
-            "version": "==67.7.2"
+            "version": "==67.8.0"
         },
         "sqlparse": {
             "hashes": [],
@@ -111,7 +111,7 @@
         },
         "typing-extensions": {
             "hashes": [],
-            "version": "==4.5.0"
+            "version": "==4.6.2"
         }
     },
     "develop": {}
