@@ -56,7 +56,7 @@
         },
         "django": {
             "hashes": [],
-            "version": "==4.2.1"
+            "version": "==4.2.8"
         },
         "django-storages": {
             "hashes": [],
