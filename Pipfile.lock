@@ -18,7 +18,7 @@
     "default": {
         "asgiref": {
             "hashes": [],
-            "version": "==3.7.2"
+            "version": "==3.8.1"
         },
         "backports.zoneinfo": {
             "hashes": [
@@ -52,27 +52,23 @@
         },
         "dj-database-url": {
             "hashes": [],
-            "version": "==2.0.0"
+            "version": "==2.1.0"
         },
         "django": {
             "hashes": [],
-            "version": "==4.2.1"
+            "version": "==5.0.4"
         },
         "django-storages": {
             "hashes": [],
-            "version": "==1.13.2"
+            "version": "==1.14.2"
         },
         "flake8": {
             "hashes": [],
-            "version": "==6.0.0"
+            "version": "==7.0.0"
         },
         "gunicorn": {
-            "hashes": [
-                "sha256:9dcc4547dbb1cb284accfb15ab5667a0e5d1881cc443e0677b4882a4067a807e",
-                "sha256:e0a968b5ba15f8a328fdfd7ab1fcb5af4470c28aaf7e55df02a99bc13138e6e8"
-            ],
-            "index": "pypi",
-            "version": "==20.1.0"
+            "hashes": [],
+            "version": "==21.2.0"
         },
         "mccabe": {
             "hashes": [
@@ -83,19 +79,19 @@
         },
         "pillow": {
             "hashes": [],
-            "version": "==9.5.0"
+            "version": "==10.3.0"
         },
         "psycopg2-binary": {
             "hashes": [],
-            "version": "==2.9.6"
+            "version": "==2.9.9"
         },
         "pycodestyle": {
             "hashes": [],
-            "version": "==2.10.0"
+            "version": "==2.11.1"
         },
         "pyflakes": {
             "hashes": [],
-            "version": "==3.0.1"
+            "version": "==3.2.0"
         },
         "python-decouple": {
             "hashes": [],
@@ -103,15 +99,15 @@
         },
         "setuptools": {
             "hashes": [],
-            "version": "==67.8.0"
+            "version": "==69.5.1"
         },
         "sqlparse": {
             "hashes": [],
-            "version": "==0.4.4"
+            "version": "==0.5.0"
         },
         "typing-extensions": {
             "hashes": [],
-            "version": "==4.6.2"
+            "version": "==4.11.0"
         }
     },
     "develop": {}
