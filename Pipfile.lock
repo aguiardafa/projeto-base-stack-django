@@ -56,7 +56,7 @@
         },
         "django": {
             "hashes": [],
-            "version": "==5.1"
+            "version": "==5.1.2"
         },
         "django-storages": {
             "hashes": [],
@@ -79,11 +79,11 @@
         },
         "pillow": {
             "hashes": [],
-            "version": "==10.4.0"
+            "version": "==11.0.0"
         },
         "psycopg2-binary": {
             "hashes": [],
-            "version": "==2.9.9"
+            "version": "==2.9.10"
         },
         "pycodestyle": {
             "hashes": [],
@@ -99,7 +99,7 @@
         },
         "setuptools": {
             "hashes": [],
-            "version": "==74.0.0"
+            "version": "==75.2.0"
         },
         "sqlparse": {
             "hashes": [],
