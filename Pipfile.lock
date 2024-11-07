@@ -52,7 +52,7 @@
         },
         "dj-database-url": {
             "hashes": [],
-            "version": "==2.2.0"
+            "version": "==2.3.0"
         },
         "django": {
             "hashes": [],
@@ -99,7 +99,7 @@
         },
         "setuptools": {
             "hashes": [],
-            "version": "==75.2.0"
+            "version": "==75.3.0"
         },
         "sqlparse": {
             "hashes": [],
