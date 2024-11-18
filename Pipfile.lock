@@ -99,11 +99,11 @@
         },
         "setuptools": {
             "hashes": [],
-            "version": "==75.3.0"
+            "version": "==75.5.0"
         },
         "sqlparse": {
             "hashes": [],
-            "version": "==0.5.1"
+            "version": "==0.5.2"
         },
         "typing-extensions": {
             "hashes": [],
