@@ -60,7 +60,7 @@
         },
         "django-storages": {
             "hashes": [],
-            "version": "==1.14.4"
+            "version": "==1.14.6"
         },
         "flake8": {
             "hashes": [],
