@@ -68,7 +68,7 @@
         },
         "gunicorn": {
             "hashes": [],
-            "version": "==23.0.0"
+            "version": "==24.1.1"
         },
         "mccabe": {
             "hashes": [
